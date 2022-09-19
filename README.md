@@ -5,6 +5,8 @@
 - Utilized the Palma Ratio metric to argue the NFT industry’s unfair income distribution and deduced that it
 had a score 414% worst than the world’s most corrupt country
 
+This repo's more of a personal thing!
+
 ## Link
 https://drive.google.com/file/d/10oE2vchWqV9KHE5XSCyaOhr_WJzMSVlZ/view
 
